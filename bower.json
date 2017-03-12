@@ -1,0 +1,24 @@
+{
+  "name": "veetuvaithiyam",
+  "description": "components for frontend stuff",
+  "main": "index.js",
+  "authors": [
+    "Muthu"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "veetuvaithiyam",
+    "Tamil",
+    "ayurveda",
+    "home",
+    "medicine"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

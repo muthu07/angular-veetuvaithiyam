@@ -5,7 +5,8 @@
   "server": {
     "baseDir": "src",
     "routes": {
-      "/node_modules": "node_modules"
+      "/node_modules": "node_modules",
+      "/bower_components":"bower_components"
     },
     "middleware": {
       "0": null
